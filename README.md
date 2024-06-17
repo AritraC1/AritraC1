@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Dart-Flutter**
 
-- 💬 Ask me about **Android and App Development**
+- 💬 Ask me about **Mobile App Development**
 
 - 📫 How to reach me **aritrach022@gmail.com**
 
