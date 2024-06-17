@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **News App**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Dart-Flutter**
 
 - 💬 Ask me about **Android and App Development**
 
