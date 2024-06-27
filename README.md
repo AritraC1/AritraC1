@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aritra Chatterjee</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on **Notes App**
+- 🔭 I’m currently working on **UI Features**
 
 - 🌱 I’m currently learning **Dart/Flutter**
 
-- 💬 Ask me about **Mobile App Development**
+- 💬 Ask me about **Android and Flutter Development**
 
 - 📫 How to reach me **aritrach022@gmail.com**
 
