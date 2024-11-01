@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aritra Chatterjee</h1>
-<h3 align="center">A passionate Mobile App Developer & Android Enthusiast from India</h3>
+<h3 align="center">A passionate Mobile App Developer from India</h3>
 
 - 🔭 I’m currently working on **News+: AI Based News Aggregator App**
 
