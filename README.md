@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aritra Chatterjee</h1>
 <h3 align="center">A passionate Mobile App Developer from India</h3>
 
-- 🔭 I’m currently working on **News+: AI Based News Aggregator App**
+- 🔭 I’m currently working on **NewsBout: News Aggregator App**
 
 - 🌱 I’m currently learning **Backend Development**
 
