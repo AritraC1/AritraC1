@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aritra Chatterjee</h1>
+<h1 align="center">Hi <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>, I'm Aritra Chatterjee</h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mobile+App+Developer;Flutter+Developer" alt="Typing SVG" /></a>
 </p>
