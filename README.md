@@ -3,7 +3,7 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>, I'm Aritra Chatterjee</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&lines=Mobile+App+Developer;Flutter+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&lines=Java+Developer;Android+App+Developer;Flutter+Developer" alt="Typing SVG" /></a>
 </p>
 
 - 🔭 I’m currently working on **NewsBout: News Aggregator App**
