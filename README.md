@@ -6,11 +6,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&lines=Software+Developer" alt="Typing SVG" /></a>
 </p>
 
-- 🔭 I’m currently working on **NewsBout: News Aggregator App**
+- 🔭 I’m currently working on **VoiceBrief: News Aggregator App**
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Flutter & Android**
+- 💬 Ask me about **Java, Android & Flutter**
 
 - 📫 How to reach me **aritrach022@gmail.com**
 
