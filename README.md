@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **VoiceBrief: News Aggregator App**
 
-- 🌱 I’m currently learning **Backend Development**
-
 - 💬 Ask me about **Java, Android & Flutter**
 
 - 📫 How to reach me **aritrach022@gmail.com**
