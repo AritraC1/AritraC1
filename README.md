@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **VoiceBrief: News Aggregator App**
 
-- 💬 Ask me about **Java, Android & Flutter**
+- 💬 Ask me about **Backend & Android**
 
 - 📫 How to reach me **aritrach022@gmail.com**
 
