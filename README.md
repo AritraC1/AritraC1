@@ -3,10 +3,9 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>, I'm Aritra Chatterjee</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&lines=Software+Developer;Full-Stack+Developer;Backend+Developer;Mobile+App+Developer;Flutter+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&lines=Software+Engineer;Backend+Developer;Mobile+App+Developer" alt="Typing SVG" /></a>
 </p>
 
-- 🔭 I’m currently working on **VoiceBrief: News Aggregator App**
 
 - 💬 Ask me about **Backend & Android**
 
