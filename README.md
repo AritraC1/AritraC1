@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&lines=Software+Engineer;Backend+Developer;Mobile+App+Developer" alt="Typing SVG" /></a>
 </p>
 
-- 🔭 I’m currently working on my Logic Building Skill
+- 🔭 I’m currently working on my **Logic Building Skill**
 
 - 💬 Ask me about **Backend & Android**
 
