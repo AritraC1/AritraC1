@@ -21,7 +21,7 @@
 
 <h2 align="left">💻 Tech Stack</h2>
 
-<h3 align="left">Mobile App Development (Android & Hybrid)</h3>
+<h3 align="left">Mobile App Development (Android & Hybrid/Cross-Platform)</h3>
  <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
