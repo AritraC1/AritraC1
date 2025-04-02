@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my **Backend Development**
 
-- 💬 Ask me about **Mobile App Development**
+- 💬 Ask me about **Android & Flutter Development**
 
 - 📫 How to reach me **aritrach022@gmail.com**
 
