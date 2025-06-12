@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&lines=Software+Engineer;Full-Stack+Developer;Flutter+Developer" alt="Typing SVG" /></a>
 </p>
 
-<p>I'm a Software Engineer with over 1 year of hands-on experience in full-stack web and mobile app development. I specialise in building scalable, high-performance applications using modern web technologies and Flutter. I'm passionate about writing clean, maintainable code and crafting seamless, responsive user experiences. I stay up-to-date with emerging tech, always eager to learn and apply best practices to bring ideas to life efficiently and reliably. </p>
+<h4>I'm a Software Engineer with over 1 year of hands-on experience in full-stack web and mobile app development. I specialise in building scalable, high-performance applications using modern web technologies and Flutter. I'm passionate about writing clean, maintainable code and crafting seamless, responsive user experiences. I stay up-to-date with emerging tech, always eager to learn and apply best practices to bring ideas to life efficiently and reliably. </h4>
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
