@@ -3,20 +3,15 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>, I'm Aritra Chatterjee </h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&lines=Software+Engineer;Mobile+App+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&lines=Software+Engineer;Full-Stack+Developer;Flutter+Developer" alt="Typing SVG" /></a>
 </p>
 
-- 🔭 I’m currently working on my **Frontend Development**
-
-- 💬 Ask me about **Android & Flutter Development**
-
-- 📫 How to reach me **aritrach022@gmail.com**
+<p>I'm a Software Engineer with over 1 year of hands-on experience in full-stack web and mobile app development. I specialise in building scalable, high-performance applications using modern web technologies and Flutter. I'm passionate about writing clean, maintainable code and crafting seamless, responsive user experiences. I stay up-to-date with emerging tech, always eager to learn and apply best practices to bring ideas to life efficiently and reliably. </p>
 
 <h2 align="left">Connect with me</h2>
-
 <p align="left">
-<a href="https://linkedin.com/in/aritra-c1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritra-c1" height="30" width="40" /></a>
-<a href="https://twitter.com/aritra_c1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritra_c1" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/aritra-c1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritra-c1" height="30" width="40" /></a>
+  <a href="https://twitter.com/aritra_c1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritra_c1" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">💻 My Tech Stack</h2>
