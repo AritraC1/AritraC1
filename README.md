@@ -38,7 +38,7 @@ I'm a Software Engineer with almost 1 year of hands-on experience in full-stack 
      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"> 
    </p>
 
-## You can also find me here
+## 🌐 You can also find me here
 <p align="left">
   <a href="https://linkedin.com/in/aritra-c1" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
