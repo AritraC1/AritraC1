@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&lines=Software+Engineer;Full-Stack+Developer;Flutter+Developer" alt="Typing SVG" /></a>
 </p>
 
-<p>I’m a Software Engineer with 1+ years of experience, building scalable, high-performance applications across web and mobile platforms. I work with modern technologies, including ReactJS, Node.js, FastAPI, MongoDB, PostgreSQL, and Flutter, handling everything from designing robust back-end APIs to crafting responsive, user-friendly interfaces. I’m passionate about writing clean, efficient code, optimising system performance, and staying current with emerging technologies to deliver reliable, end-to-end software solutions.</p>
+<p>Software Engineer with 1+ years of experience building high-performance mobile and web applications. Skilled in Flutter and React for responsive UIs, with scalable APIs built using Node.js and FastAPI, backed by PostgreSQL and MongoDB. Focused on clean code, performance optimisation, and delivering production-ready software end-to-end.</p>
 
 ## My Tech Stack
    <p align="left">
