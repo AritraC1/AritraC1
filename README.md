@@ -3,10 +3,10 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>, I'm Aritra Chatterjee </h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&lines=Software+Engineer;Full-Stack+Developer;Flutter+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&lines=Flutter+Developer;Backend+Engineer;AI/ML+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
-<p>Software Engineer with 1+ years of experience building high-performance mobile and web applications. Skilled in Flutter and React for responsive UIs, with scalable APIs built using Node.js and FastAPI, backed by PostgreSQL and MongoDB. Focused on clean code, performance optimisation, and delivering production-ready software end-to-end.</p>
+<p>Software Engineer focused on Flutter mobile development, scalable backend systems, and AI/ML integration. Experienced in building high-performance cross-platform apps using Flutter and Dart, with strong backend skills in Node.js, FastAPI, and PostgreSQL. Currently expanding into Machine Learning, Data Science, and intelligent system design, with a passion for clean architecture and performance optimisation.</p>
 
 ## My Tech Stack
    <p align="left">
