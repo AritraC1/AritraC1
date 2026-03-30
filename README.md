@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi 👋 My name is Aritra Chatterjee<br>====================================<br><br>Software Engineer<br>-------------------<br>
+Hi 👋 My name is Aritra Chatterjee<br>==========================<br><br>Software Engineer<br>-------------------<br>
 
 I am a performance-focused Software Engineer specialising in building scalable software systems and high-quality applications. I have successfully developed robust, user-friendly solutions across multiple platforms, including mobile and web. My experience spans a range of technologies, including Dart, JavaScript, and Python, and I am also familiar with frameworks such as React.
 
