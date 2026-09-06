@@ -24,37 +24,17 @@ I am a performance-focused Software Engineer specialising in building scalable s
   <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
   </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/>
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
   </a>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-  </a>
-  
   <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/>
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer">
@@ -73,10 +53,6 @@ I am a performance-focused Software Engineer specialising in building scalable s
     <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/>
   </a>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
-  </a>
-  
   <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/>
   </a>
@@ -87,10 +63,6 @@ I am a performance-focused Software Engineer specialising in building scalable s
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/>
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer">
@@ -123,14 +95,6 @@ I am a performance-focused Software Engineer specialising in building scalable s
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer">
