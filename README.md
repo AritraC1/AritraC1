@@ -4,15 +4,10 @@ Hi 👋 My name is Aritra Chatterjee<br>==========================<br><br>Softwa
 I am a performance-focused Software Engineer specialising in building scalable software systems and high-quality applications. I have successfully developed robust, user-friendly solutions across multiple platforms, including mobile and web. My experience spans a range of technologies, including Dart, JavaScript, and Python, and I am also familiar with frameworks such as React.
 
 * 🌍 I'm based in India
-* 📧 You can contact me at aritrach022@gmail.com
+* 📧 You can contact me at  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aritrach022@gmail.com) , [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aritra-c1) , [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aritra_C1) 
 * 🚀 Currently working on real-time communication systems  
 * 🧠 Learning System Designs
 * 🤝 I'm open to collaborating on any interesting project
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aritra-c1) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aritra_C1) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aritrach022@gmail.com)
 
 ## 💻 Tech Stack:
 <p align="left"> 
