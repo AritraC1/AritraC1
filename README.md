@@ -24,6 +24,10 @@ I am a performance-focused Software Engineer specialising in building scalable s
     <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
   </a>
 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> 
+  </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/>
   </a>
