@@ -1,7 +1,7 @@
 ## 💫 About Me:
 Hi 👋 My name is Aritra Chatterjee<br>==========================<br><br>Software Engineer<br>-------------------<br>
 
-I am a performance-focused Software Engineer specialising in building scalable software systems and high-quality applications. I have successfully developed robust, user-friendly solutions across multiple platforms, including mobile and web. My experience spans a range of technologies, including Dart, JavaScript, and Python, and I am also familiar with frameworks such as React.
+I'm a software engineer who builds scalable systems and high-quality products, from idea to production. I care about the problem being solved more than the tools used to solve it, so I'm tech-stack independent and choose whatever the project and its users need. I've shipped robust, user-friendly solutions across mobile and web.
 
 * 🌍 I'm based in India
 * 📧 You can contact me at  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aritrach022@gmail.com) , [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aritra-c1) , [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aritra_C1) 
